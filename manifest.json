@@ -1,0 +1,17 @@
+{
+  "toolMetadata": {
+    "name": "youtubeStats",
+    "description": "Fetches real-time YouTube video views, likes, and comments",
+    "visibility": "public",
+    "repo": "yourusername/youtube-stats-applet",
+    "codePath": "applet.js",
+    "branch": "main"
+  },
+  "input": {
+    "videoId": "dQw4w9WgXcQ"
+  },
+  "triggers": [],
+  "secrets": {
+    "YOUTUBE_API_KEY": "your-youtube-api-key-here"
+  }
+}
